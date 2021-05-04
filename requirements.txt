@@ -1,0 +1,5 @@
+pandas==1.2.2
+scikit-learn==0.24.1
+mizar-labs==0.1.12
+mizar==0.0.5
+matplotlib==3.4.1
