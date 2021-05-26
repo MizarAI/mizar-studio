@@ -1,5 +1,13 @@
+<br/>
+<p align="center">
+<a href="https://mizar.ai/" target="_blank">
+<img src="https://raw.githubusercontent.com/MizarAi/mizar-studio/master/logo/mizar_logo_black.svg" width="225" alt="Mizar logo">
+</a>
+</p>
+<br/>
+
 # Welcome to Mizar Studio
-This is a template that will help you to build your algo-strategy to be then deployed in [Mizar](https://mizar.ai/)
+This repository contains a jupyter notebook template that will help you to build your algo-strategy to be deployed in [Mizar](https://mizar.ai/)
 
 ## Environment 
 We set up your environment with all the tools you need to build a successful strategy. 
